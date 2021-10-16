@@ -1,4 +1,4 @@
-# t2gt-ny21
+
 # **Tech Together New York 2021**
 This project was started at Tech Together NY 2021.
 
